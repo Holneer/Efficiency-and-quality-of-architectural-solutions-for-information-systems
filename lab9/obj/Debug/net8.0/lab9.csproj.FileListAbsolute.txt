@@ -1,0 +1,14 @@
+C:\projects\holneer\decisions\lab9\bin\Debug\net8.0\lab9.exe
+C:\projects\holneer\decisions\lab9\bin\Debug\net8.0\lab9.deps.json
+C:\projects\holneer\decisions\lab9\bin\Debug\net8.0\lab9.runtimeconfig.json
+C:\projects\holneer\decisions\lab9\bin\Debug\net8.0\lab9.dll
+C:\projects\holneer\decisions\lab9\bin\Debug\net8.0\lab9.pdb
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\lab9.AssemblyInfoInputs.cache
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\lab9.AssemblyInfo.cs
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\lab9.csproj.CoreCompileInputs.cache
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\lab9.dll
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\refint\lab9.dll
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\lab9.pdb
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\lab9.genruntimeconfig.cache
+C:\projects\holneer\decisions\lab9\obj\Debug\net8.0\ref\lab9.dll
